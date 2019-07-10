@@ -11,4 +11,8 @@ public class helloGit {
         System.out.println("hello git");
         System.out.println("hello git");
     }
+    public void test2(){
+        int i=10;
+        i++;
+    }
 }
