@@ -16,7 +16,6 @@ public class helloGit {
     }
     public void test3(){
         int i=10;
-        i++;
         System.out.println(i);
     }
 }
