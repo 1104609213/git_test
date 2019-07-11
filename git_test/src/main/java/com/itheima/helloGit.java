@@ -13,6 +13,10 @@ public class helloGit {
     }
     public void test2(){
         int i=10;
+    }
+    public void test3(){
+        int i=10;
         i++;
+        System.out.println(i);
     }
 }
